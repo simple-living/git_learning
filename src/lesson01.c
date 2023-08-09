@@ -6,6 +6,7 @@ static void mymath(){
 
 static void mygit(){
 	printf("git add <file...>\n");
+	printf("git commit -m log\n");
 }
 
 void mylesson01(){
