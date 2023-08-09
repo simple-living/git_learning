@@ -6,6 +6,7 @@ static void mymath(){
 
 static void mygit(){
 	printf("git add <file...>\n");
+	printf("git checkout <branch>\n");
 }
 
 void mylesson01(){
